@@ -18,9 +18,9 @@ Php    : 5.5.31 -
 Mysql  : 5.1.73
 
 
+#Homemade
 
-
-Repository for store invoices and files.
+Repository for  invoices and files.
 
 Php application.
 
