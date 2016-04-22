@@ -1,7 +1,7 @@
 <?php
-$username = "olomaster";
-$password = "olodev";
-$host = "olodb";
+$username = "DB-USERNAME";
+$password = "PASSWORD";
+$host = "DBHOST";
 $database = "homemade";
 //$port = 3308;
 
